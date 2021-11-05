@@ -1,0 +1,18 @@
+section {
+  width: 600px;
+  height: 600px;
+  text-align: center;
+  border: 15px solid black;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+  background-color: lightblue;
+  /* TODO: Add a margin property - dictates what is in the space between outside and anything inside */
+  margin: 20px;
+  /* TODO: Add a padding property - space between border and content of box */
+  padding: 20px;
+  /* TODO: Add a border property */
+  border: 9px solid black;
+}
